@@ -21,7 +21,7 @@ DESC
 s.homepage          = 'https://test.com'
 s.license           =  "LICENSE" 
 s.authors           = { 'Author' => 'dav.cvrcek@gmail.com' }
-s.source            = { :http => 'https://bitbucket.org/groopcz/umbrellaframework/raw/ec35da456cea3fe5d2e3072583d1234c9bc09756/0.1.0/UmbrellaFramework.zip'}
+s.source            = { :http => 'https://bitbucket.org/groopcz/umbrellaframework/raw/398b8e907a5f659158858a5ca2c23609997e4017/0.1.0/Umbrella-avoc.zip'}
 
 s.ios.deployment_target = '11.0'
 s.swift_version = '5.0'
